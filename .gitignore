@@ -1,0 +1,15 @@
+# Compiled programs and object files
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+a.out
+
+# Editor / OS junk
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
